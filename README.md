@@ -1,4 +1,4 @@
-# 💻 // Bankroupt
+# 💻 // B4nkr0up7
 Soy un apasionado por **seguridad ofensiva** y el **análisis forense**. Mi trabajo es simple: **pensar como un adversario**, identificar vulnerabilidades críticas y reforzar la postura de seguridad de los sistemas.
 
 Me muevo entre la solidez de los **Fundamentos de Ciberseguridad** avalados por **Microsoft** y **HTB**, y la filosofía de **Software Libre** que impulsa la innovación. **No solo detecto el riesgo, lo pruebo.**
