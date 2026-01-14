@@ -42,7 +42,7 @@ Mi formación es continua y práctica:
 ---
 ## 💬 Conexión
 
-Si tienes proyectos que requieren una mentalidad de adversario, Mi contacto esta [aqui](https://bankroupt.github.io/)o si estás construyendo un lab, el contacto está en el protocolo.
+Si tienes proyectos que requieren una mentalidad de adversario, Mi contacto esta [aqui](https://bankroupt.github.io/) o si estás construyendo un lab, el contacto está en el protocolo.
 
 > *"La única forma de detener un hack es siendo el primero en intentarlo."*>
 
